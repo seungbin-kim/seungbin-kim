@@ -1,10 +1,12 @@
+<div align="center">
+
 # Seungbin Kim [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungbin-kim&count_bg=%233D7CC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Notion](http://img.shields.io/badge/-Notion-success?style=flat&logo=Notion&link=https://www.notion.so/3ea75dec7f5d46f184df51bb4a122607)](https://www.notion.so/3ea75dec7f5d46f184df51bb4a122607)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=olleh0528)](https://solved.ac/olleh0528)
-
+</div>
 <!--
 **seungbin-kim/seungbin-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
