@@ -2,7 +2,7 @@
 
 # Seungbin Kim [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungbin-kim&count_bg=%233D7CC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Notion](http://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white)](https://frosted-syringa-067.notion.site/Seungbin-Kim-3ea75dec7f5d46f184df51bb4a122607)
+[![Notion](http://img.shields.io/badge/Notion-black?style=for-the-badge&logo=Notion&logoColor=white)](https://seung-bin.notion.site/Seungbin-Kim-93ac9d32a4414f1e8f9806dcd90a6300)
 [![Email](http://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:seungbin.kim.dev@gmail.com)
 
 [![Solved.ac
